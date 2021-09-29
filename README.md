@@ -5,8 +5,7 @@ Your task is to print all possible combinations, up to size *k*, of the string i
 
 **Input Format**
 
-A single line containing the string *S* and integer value *k* separated by a space.
-
+A single line containing the string *S* and integer value *k* separated by a space.  
 The string contains only UPPERCASE characters.
 
 **Output Format**
